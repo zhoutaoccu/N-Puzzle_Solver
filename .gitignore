@@ -1,0 +1,6 @@
+bin/
+obj/
+AI_N-Puzzle
+*.cbp
+*.depend
+*.layout
